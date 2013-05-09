@@ -16,22 +16,26 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>wall1</item>
-        <item>wall2</item>
-        <item>wall3</item>
-        <item>wall4</item>
-        <item>wall5</item>
-        <item>wall6</item>
-        <item>wall7</item>
-        <item>wall8</item>
-        <item>wall9</item>
-        <item>wall10</item>
-        <item>wall11</item>
-        <item>wall12</item>
-        <item>wall13</item>
-        <item>wall14</item>
-        <item>wall15</item>
-        <item>wall16</item>
-        <item>wall17</item>
+        <item>wall_1</item>
+        <item>wall_2</item>
+        <item>wall_3</item>
+        <item>wall_4</item>
+        <item>wall_5</item>
+        <item>wall_6</item>
+        <item>wall_7</item>
+        <item>wall_8</item>
+        <item>wall_9</item>
+        <item>wall_10</item>
+        <item>wall_11</item>
+        <item>wall_12</item>
+        <item>wall_13</item>
+        <item>wall_14</item>
+        <item>wall_15</item>
+        <item>wall_16</item>
+        <item>wall_17</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>DroidTh3ory</item>
     </string-array>
 </resources>

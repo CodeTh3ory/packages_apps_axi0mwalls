@@ -45,6 +45,7 @@ public class wallpaper extends Activity implements AdapterView.OnItemSelectedLis
 
     private Gallery mGallery;
     private ImageView mImageView;
+    private TextView mInfoView;
     private boolean mIsWallpaperSet;
 
     private Bitmap mBitmap;
@@ -70,6 +71,7 @@ public class wallpaper extends Activity implements AdapterView.OnItemSelectedLis
         findViewById(R.id.set).setOnClickListener(this);
 
         mImageView = (ImageView) findViewById(R.id.wallpaper);
+        mInfoView = (TextView) findViewById(R.id.info);
     }
 
     private void findWallpapers() {
@@ -220,6 +222,8 @@ public class wallpaper extends Activity implements AdapterView.OnItemSelectedLis
                 if (mBitmap != null) {
                     mBitmap.recycle();
                 }
+
+                mInfoView.setText(getResources().getStringArray(R.array.info)[mGallery.getSelectedItemPosition()]);
 
                 final ImageView view = mImageView;
                 view.setImageBitmap(b);
