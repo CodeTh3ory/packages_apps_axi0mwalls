@@ -174,7 +174,6 @@ public class WallpaperActivity extends Activity {
                 Wallpaper w = getWallpaper(realIndex);
                 thumbs[i].setOnClickListener(null);
                 thumbs[i].getName().setText(w.getName());
-                thumbs[i].getAuthor().setText(w.getAuthor());
                 UrlImageViewHelper.setUrlDrawable(thumbs[i].getThumbnail(), w.getThumbUrl(),
                         R.drawable.ic_placeholder, new ThumbnailCallBack(w, realIndex));
             }
