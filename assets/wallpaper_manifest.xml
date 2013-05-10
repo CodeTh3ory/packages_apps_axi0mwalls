@@ -18,6 +18,8 @@
 
         <wallpaper
             url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_1.jpg" />
+        <thumbnail
+            thumbUrl="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_1.jpg" />
 
         <wallpaper
             url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_2.jpg" />
