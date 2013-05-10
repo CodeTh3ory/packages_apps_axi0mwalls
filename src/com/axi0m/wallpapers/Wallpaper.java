@@ -1,5 +1,5 @@
 
-package com.rootbox.wallpapers;
+package com.axi0m.wallpapers;
 
 public class Wallpaper {
 
