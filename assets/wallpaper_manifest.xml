@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wallpapers>
+
+    <!--
+         Categories accept:
+        id="<string>" unique id string
+        name="<string>" visual name
+        
+        Wallpapers accept:
+        url="<url of wallpaper>"
+        thumbUrl="<url of thumbnail>"
+        author="<author>" may be used for filtering later
+        date="<date added>" may be used for filtering later
+        name="<wallpaper name">
+    -->
+
+    <category name="AXI0M" >
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_1.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_2.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_3.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_4.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_5.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_6.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_7.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_8.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_9.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_10.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_11.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_12.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_13.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_14.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_15.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_16.jpg" />
+
+        <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_17.jpg" />
+    </category>
+
+</wallpapers>

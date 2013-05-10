@@ -1,6 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Обои CM</string>
-    <string name="set_wallpaper">Установить обои</string>
-    <string name="no_wallpaper">Нет обоев</string>
+
+    <string name="app_name">Обои AXI0M</string>
+    <string name="title_activity_wallpaper">Обои AXI0M</string>
+    <string name="back">Назад</string>
+    <string name="next">Вперед</string>
+    <string name="page">Страница: </string>
+    <string name="set_wallpaper">Установить как обои</string>
+    <string name="save_wallpaper">Сохранить</string>
+    <string name="downloading">Загрузка…</string>
+    <string name="wait">Подождите</string>
+    <string name="set">Изображение установлено как обои!</string>
+    <string name="saved">Изображение сохранено</string>
+    <string name="jump">Переход на страницу</string>
+    <string name="jump2">Переход на страницу:</string>
+    <string name="wars">Wallpaper Wars</string>
+    <string name="vote">Голосовать!</string>
+    <string name="wallpaper">wallpaper</string>
+    <string name="setting_wallpaper">Установка обоев…</string>
+    <string name="category_name">Категория</string>
+    <string name="choose_category">Категория</string>
+
 </resources>
