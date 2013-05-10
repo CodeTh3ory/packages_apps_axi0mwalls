@@ -8,6 +8,6 @@
     <string name="config_wallpaper_download_loc"></string>
 
     <!-- url to the wallpaper manifest -->
-    <string name="config_wallpaper_manifest_url">https://raw.github.com/CodeTh3ory/AXI0MWalls/wallpaper_manifest.xml</string>
+    <string name="config_wallpaper_manifest_url">http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wallpaper_manifest.xml</string>
 
 </resources>
