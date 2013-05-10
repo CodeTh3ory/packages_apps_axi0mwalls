@@ -52,12 +52,10 @@ public class ManifestXmlParser extends DefaultHandler {
 
             String url = attributes.getValue("url");
             String xmlThumbUrl = attributes.getValue("thumbUrl");
-            String author = attributes.getValue("author");
             String date = attributes.getValue("date");
             String name = attributes.getValue("name");
 
             wp.setName(name);
-            wp.setAuthor(author != null ? author : "");
             wp.setDate(date != null ? date : "");
             wp.setThumbUrl(xmlThumbUrl != null ? xmlThumbUrl : generateThumbUrl(url));
             wp.setUrl(url);
