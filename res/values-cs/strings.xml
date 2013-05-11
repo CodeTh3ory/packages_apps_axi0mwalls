@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Tapety AXI0M</string>
-  <string name="title_activity_wallpaper">AXI0M stěny</string>
+  <string name="title_activity_wallpaper">Wallpapers</string>
   <string name="back">Předchozí</string>
   <string name="next">Další</string>
   <string name="page">Stránka: </string>

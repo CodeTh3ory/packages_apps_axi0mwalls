@@ -37,7 +37,7 @@ import java.util.ArrayList;
 
 public class WallpaperActivity extends Activity {
 
-    public final String TAG = "AXI0MWalls";
+    public final String TAG = "SwagPapers";
     protected static final String MANIFEST = "wallpaper_manifest.xml";
     protected static final int THUMBS_TO_SHOW = 4;
 
@@ -174,6 +174,7 @@ public class WallpaperActivity extends Activity {
                 Wallpaper w = getWallpaper(realIndex);
                 thumbs[i].setOnClickListener(null);
                 thumbs[i].getName().setText(w.getName());
+                thumbs[i].getAuthor().setText(w.getAuthor());
                 UrlImageViewHelper.setUrlDrawable(thumbs[i].getThumbnail(), w.getThumbUrl(),
                         R.drawable.ic_placeholder, new ThumbnailCallBack(w, realIndex));
             }

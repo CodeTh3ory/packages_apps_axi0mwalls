@@ -4,6 +4,7 @@ package com.axi0m.wallpapers;
 public class Wallpaper {
 
     String name;
+    String author;
     String url;
     String thumbUrl;
     String date;
@@ -23,6 +24,14 @@ public class Wallpaper {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(String author) {
+        this.author = author;
     }
 
     public String getUrl() {
