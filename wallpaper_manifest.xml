@@ -17,6 +17,10 @@
     <category name="AXI0M" >
 
         <wallpaper
+            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_0.jpg"
+            thumbUrl="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_0.jpg" />
+
+        <wallpaper
             url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_1.jpg"
             thumbUrl="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_1.jpg" />
 
@@ -84,9 +88,6 @@
             url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_17.jpg"
             thumbUrl="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_17.jpg" />
 
-        <wallpaper
-            url="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_18.jpg"
-            thumbUrl="http://androidhosting.org/Devs/DroidTh3ory/WallsHost/wall_18.jpg" />
     </category>
 
 </wallpapers>
